@@ -1,0 +1,6 @@
+{
+  "backend": "http://127.0.0.1:8080",
+  "listen": ":8080",
+  "allow_origins": "",
+  "prefork": false
+}
