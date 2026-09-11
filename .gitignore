@@ -1,0 +1,6 @@
+# Holds the address of an internal backend host -- keep it out of the repo.
+# Copy config.json.example instead.
+config.json
+
+# Build output
+/reverse-proxy
